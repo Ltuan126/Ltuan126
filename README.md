@@ -27,8 +27,8 @@ Building scalable systems and practical AI applications
 ---
 
 ### ⚙️ Tech Stack
-`Node.js` `TypeScript` `Express.js` `MongoDB` `MySQL`  
-`Python` `LLM (OpenAI)` `RAG`
+`Node.js` `JavaScript` `TypeScript` `Express.js` `MongoDB` `MySQL`  
+`Python` `LLM (OpenAI)` `RAG` 
 
 ---
 
